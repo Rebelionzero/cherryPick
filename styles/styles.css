@@ -7,3 +7,7 @@ body {
 .text {
     font-size: 15px;
 }
+
+.box {
+    border: 1x solid;
+}
